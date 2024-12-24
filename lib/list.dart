@@ -27,14 +27,14 @@ void main()
     print(fruits);
 
    
-     List<String> animals =['cat','Dog', 'elephant'];                    //Iterating over a list
+     //List<String> animals =['cat','Dog', 'elephant'];                    //Iterating over a list
      //using foreach
-     animals.forEach((animal) => print(animal));
+     //animals.forEach((animal) => print(animal));
 
      //using for loop
-     for(var animal in animals){
-      print(animal);
-    }
+     //for(var animal in animals){
+      //print(animal);
+    
 }
 
 
