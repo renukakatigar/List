@@ -1,4 +1,4 @@
-/*void main()
+void main()
 {
   Map<String, Map<String, dynamic>> users={
     'user1':{
@@ -24,10 +24,10 @@
   //Accessing values
   print(users['user1']!['name']);
   print(users['user2']!['name']);
-}*/
+}
 
 //Nested with list
-/*void main(){
+void main(){
   Map<String, Map<String, dynamic>> school={
     'classA':{
       'teacher':'Mr. smith',
@@ -42,7 +42,7 @@
   
   print('Teacher of class A: ${school['classA']!['teacher']}');
   print('students in class B:${school['classB']!['students']}');
-}*/
+}
 
 //modifying nested map
 void main(){
