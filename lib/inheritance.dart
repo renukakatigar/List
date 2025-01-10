@@ -1,4 +1,4 @@
-/*
+
 //Base class
 class Animal{
   String name;
@@ -36,7 +36,7 @@ void main(){
 
   dog.makesound();
   cat.makesound();
-}*/
+}
 
 // Exmaple2
 class Vehicle{
