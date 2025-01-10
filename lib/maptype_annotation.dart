@@ -1,4 +1,4 @@
-/*void main()
+void main()
 {
   Map<String, int> ages ={
     'Alice':20,
@@ -16,7 +16,7 @@
   ages.forEach((Key, value){
     print('$Key is $value years old');
   });
-}*/
+}
 
 //dynmic values
 void main(){
