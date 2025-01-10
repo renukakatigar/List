@@ -1,24 +1,24 @@
-/*void main(){
+void main(){
   var fruitPrices ={
     'apple':2.5,
     'banana':24,
     'orange':1.8,
   };
   print(fruitprices);
-}*/
+}
 
 //Accessing values
-/*void main(){
+void main(){
   var fruitPrices={
     'apple':2.5,
     'banana':23,
     'orange':1.8,
   };
   print('price of an apple: \$${fruitPrices['apple']}');
-}*/
+}
 
 //Adding and Updating entries
-/*void main(){
+void main(){
   var fruitPrices={
     'apple':2.5,
     'banana':2.4,
@@ -31,10 +31,10 @@
   fruitPrices['banana']=2.6;
 
   print(fruitPrices);
-}*/
+}
 
 //removing entry
-/*void main(){
+void main(){
   var fruitPrices ={
     'apple':2.5,
     'banana':2.6,
@@ -45,7 +45,7 @@
   fruitPrices.remove('banana');
 
   print(fruitPrices);
-}*/
+}
 
 //Iterating over a loop
 void main(){
